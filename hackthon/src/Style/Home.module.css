@@ -1,0 +1,17 @@
+.mainContainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.img{
+    margin-top: 120px;
+    height: 300px;
+    width: 320px;
+}
+.text {
+    font-size: 32px;
+    color: #040404;
+   position: relative;
+   bottom: 30px;
+}

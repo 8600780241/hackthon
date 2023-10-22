@@ -1,0 +1,38 @@
+
+.main {
+    width:1175px;
+    height:620px;
+    border: 4px solid #662671;
+    border-radius: 8px;
+    margin-left: 300px;
+}
+.first {
+    display: flex;
+    justify-content: space-around;
+}
+.text {
+    font-size: 30px;
+}
+.button {
+    width:120px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #662671;
+    color: wheat;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.second {
+    display: flex;
+    justify-content: space-around;
+    background: #FFF8B7;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.third {
+    display:flex;
+    justify-content: space-around;
+    height: 30px;
+    font-size: 17px;
+}
