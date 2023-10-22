@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.container1{
+  background: url(https://s3-alpha-sig.figma.com/img/4f8b/6e9d/609c7731d037f1b65d00906a7bc1e241?Expires=1698624000&Signature=D0w8Z0aPhnXqlHyebc7CzKw41uP4M-YGPDzGe53vCNp99f08x~VI4YZ0g6-SCYFSID1-i87d7xTHViFBJLEB7gs-q4fjDD8Ij35tlq4xGCHPIii0XA2sDFLTa1pSdKdrmbw13dmwREL7ofsg6imi51jWiEi17ClZpEc-324~2IIbFg36SsBSsaDaLq12k3a7dQ3E2pfJ5o86SXT7HB0A7AvLr3r50pzMmhIuA~78FkhlPTwdlRmA7cqqS2Sw4KlENpz-SdNCN8r9NFpJaPE0W1jOfcmFZWRLYTzn37Ayw6uNv3XW-ZGK3VdC3rk53n42Ajwl6Nkn2c9DTp7RycLyOA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4), lightgray 50% / cover no-repeat;
+}

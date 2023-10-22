@@ -1,0 +1,67 @@
+.main{
+    background: url(https://s3-alpha-sig.figma.com/img/4f8b/6e9d/609c7731d037f1b65d00906a7bc1e241?Expires=1698624000&Signature=D0w8Z0aPhnXqlHyebc7CzKw41uP4M-YGPDzGe53vCNp99f08x~VI4YZ0g6-SCYFSID1-i87d7xTHViFBJLEB7gs-q4fjDD8Ij35tlq4xGCHPIii0XA2sDFLTa1pSdKdrmbw13dmwREL7ofsg6imi51jWiEi17ClZpEc-324~2IIbFg36SsBSsaDaLq12k3a7dQ3E2pfJ5o86SXT7HB0A7AvLr3r50pzMmhIuA~78FkhlPTwdlRmA7cqqS2Sw4KlENpz-SdNCN8r9NFpJaPE0W1jOfcmFZWRLYTzn37Ayw6uNv3XW-ZGK3VdC3rk53n42Ajwl6Nkn2c9DTp7RycLyOA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4), lightgray 50% / cover no-repeat;
+}
+
+.box1 {
+    background-color: white;
+    height: 600px;
+    width: 450px;
+    border: 6px solid green;
+     border-radius: 6px;
+     margin-top: 65px;
+     margin-left: 150px;
+}
+.image {
+    height: 160px;
+    width: 320px;
+    margin-top: 50px;
+}
+.text {
+    background-color: gainsboro;
+  font-size: 18px;
+color: #717070;
+height:30px;
+width: 280px;
+position: relative;
+bottom: 22px;
+left: 70px;
+}
+.email, .password{
+    height:36px;
+width: 310px;
+border: 1px solid grey;
+border-radius: 5px;
+padding-left: 30px;
+position: relative;
+bottom: 30px;
+}
+.forget {
+    color: #A08CB1;
+    width: 200px;
+    height: 20px;
+    position: relative;
+bottom: 66.5px;
+left: 190px;
+}
+.button {
+    width: 350px;
+    height: 40px;
+    font-size: 24px;
+    color: wheat;
+    border-radius: 8px;
+background: #5C218B;
+box-shadow: 1px 1px 20px 0px rgba(0, 0, 0, 0.11);
+position: relative;
+bottom: 66.5px;
+}
+.register {
+    width: 150px;
+    height: 30px;
+    border-radius: 8px;
+    background: chartreuse;
+    color: white;
+    font-size: 18px;
+    position: relative;
+    right: 250px;
+    bottom: 50px;
+}
